@@ -1,2 +1,2 @@
 echo hello
-echo hi git st
+echo hi git sts
